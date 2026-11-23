@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WatchRPC</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_search">Discover</string>
+    <string name="nav_presets">Presets</string>
+    <string name="nav_connect">Connect</string>
+    <string name="notification_channel_name">Discord Rich Presence</string>
+    <string name="notification_channel_desc">Keeps your Discord Watching Rich Presence connected in the background</string>
+    <string name="notification_watching_prefix">Watching %1$s</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_stop">Disconnect</string>
+</resources>

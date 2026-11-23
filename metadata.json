@@ -1,0 +1,6 @@
+{
+  "name": "WatchRPC",
+  "description": "Broadcast movie, TV series, and anime watching Rich Presence to Discord with live progress bar, play/pause status, episode details, and custom action buttons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
